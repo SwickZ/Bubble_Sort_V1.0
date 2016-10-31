@@ -1,0 +1,5 @@
+﻿  Bubble_Sort_1.cpp
+c:\users\swickz\documents\visual studio 2015\projects\bubble_sort_1\bubble_sort_1\bubble_sort_1.cpp(13): warning C4700: uninitialized local variable 'j' used
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Bubble_Sort_1.vcxproj -> c:\users\swickz\documents\visual studio 2015\Projects\Bubble_Sort_1\Debug\Bubble_Sort_1.exe
+  Bubble_Sort_1.vcxproj -> c:\users\swickz\documents\visual studio 2015\Projects\Bubble_Sort_1\Debug\Bubble_Sort_1.pdb (Partial PDB)
